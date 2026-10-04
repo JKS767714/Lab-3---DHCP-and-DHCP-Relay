@@ -20,7 +20,7 @@ The network consists of three VLANs connected through a Cisco switch and router.
 | 30 | OPS | 192.168.30.0/24 | 192.168.30.1 |
 
 **DHCP Server:** 192.168.20.10
-
+![Network Topology](images/)
 ---
 
 ## DHCP Configuration
