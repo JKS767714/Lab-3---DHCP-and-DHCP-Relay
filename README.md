@@ -57,7 +57,7 @@ Subnet Mask:     255.255.255.0
 Default Gateway: 192.168.10.1
 DNS Server:      8.8.8.8
 ```
-
+![DHCP PC0 / VLAN 10 DHCP Success](images/Lab%203%20DHCP%20PC0%20Success.png)
 The OPS client in VLAN 30 also successfully received:
 
 ```text
@@ -66,7 +66,7 @@ Subnet Mask:     255.255.255.0
 Default Gateway: 192.168.30.1
 DNS Server:      8.8.8.8
 ```
-
+![DHCP PC2 / VLAN 30 Success](images/Lab%203%20DHCP%20PC2%20Success.png)
 Packet Tracer Simulation Mode was used to observe the DHCP DORA process:
 
 **Discover → Offer → Request → Acknowledge**
