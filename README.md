@@ -34,7 +34,7 @@ The DHCP server was configured with separate address pools for each VLAN.
 | OPS | 192.168.30.100 | 192.168.30.1 | 255.255.255.0 |
 
 Because the DHCP server resides in VLAN 20, DHCP relay was configured on the router interfaces serving VLANs 10 and 30.
-
+![DHCP Pool](images/Lab%203%20DHCP%20Pools.png)
 ```text
 interface g0/0.10
  ip helper-address 192.168.20.10
